@@ -1,30 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Ochieng-Kibet/Ochieng-Kibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Absolutely! Here's a professional, compelling, and relevant portfolio write-up based on the screenshots you've provided. This portfolio specifically highlights your experience and skills that directly align with online writing roles, ensuring you effortlessly pass screening stages:
-
----
-
-## Professional Writing Portfolio
 
 ### **Professional Summary**
 A versatile and detail-oriented Academic and Content Writer with over three years of proven expertise in research-driven writing, proofreading, editing, and content management. Skilled in clearly communicating client requirements to writing teams, utilizing AI tools for content enhancement, and ensuring the highest quality of delivered projects. Passionate about creating impactful, accurate, and compelling written content.
-
----
 
 ### **Relevant Work Experience**
 
@@ -55,18 +33,14 @@ A versatile and detail-oriented Academic and Content Writer with over three year
 *Go Transcript (September 2019 – September 2021)*  
 - Transformed audio content into clear, grammatically accurate, and reader-friendly text, consistently meeting tight deadlines and quality standards.
 
----
-
 ### **Core Competencies**
 - **Academic & Research Writing**
 - **Proofreading and Editing**
 - **Content Management & Strategy**
 - **Communication & Team Management**
-- **AI Writing Tools & Software**
+- **Proficient use of AI**
 - **Qualitative & Quantitative Analysis**
 - **Transcription & Data Validation**
-
----
 
 ### **Technical Skills**
 - Proficient in AI content tools (ChatGPT, Grammarly, Jasper)
@@ -74,7 +48,6 @@ A versatile and detail-oriented Academic and Content Writer with over three year
 - Strong familiarity with transcription and qualitative analysis tools (Otter.ai, NVivo)
 - Excellent understanding of digital communication tools (Slack, Trello, Google Suite)
 
----
 
 ### **Professional Attributes**
 - Exceptional writing accuracy and attention to detail
@@ -82,6 +55,3 @@ A versatile and detail-oriented Academic and Content Writer with over three year
 - Proven capability to manage multiple tasks and meet deadlines
 - Strong adaptability to diverse writing topics and formats
 
----
-
-Feel free to share any more experiences or skills you'd like highlighted or refined. Let's land you that role! 🚀
